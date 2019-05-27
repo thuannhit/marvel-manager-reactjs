@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Exer2 renders correctly 1`] = `
+<div>
+  <br />
+  <div
+    className="MuiPaper-root-1 MuiPaper-elevation1-4 MuiPaper-rounded-2"
+  >
+    <h3
+      className="MuiTypography-root-28 MuiTypography-h5-44"
+    >
+      Using your knowledge to make the code better
+    </h3>
+    <p
+      className="MuiTypography-root-28 MuiTypography-body1-37"
+    >
+      Please see the .docx file attached
+      <a
+        download={true}
+        href="https://1drv.ms/w/s!AsbPIUcZlBUXwEU9dfl3f0ATd9xL"
+        target="_blank"
+      >
+         Click to open
+      </a>
+    </p>
+  </div>
+</div>
+`;

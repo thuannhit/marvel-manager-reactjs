@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomePage renders correctly 1`] = `
+<div
+  className="d-flex flex-column App"
+>
+  <div
+    className="btn-group-lg btn-group"
+    role="group"
+  >
+    <button
+      aria-label={null}
+      className="btn btn-secondary"
+      onClick={[Function]}
+      type="button"
+      value="Ex1"
+    >
+      Ex. 1
+    </button>
+    <button
+      aria-label={null}
+      className="btn btn-secondary"
+      onClick={[Function]}
+      type="button"
+      value="Ex2"
+    >
+      Ex. 2
+    </button>
+    <button
+      aria-label={null}
+      className="btn btn-secondary"
+      onClick={[Function]}
+      type="button"
+      value="Ex3"
+    >
+      Ex. 3
+    </button>
+  </div>
+</div>
+`;

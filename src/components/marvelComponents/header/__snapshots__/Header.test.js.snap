@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders correctly 1`] = `
+<header
+  className="Header"
+>
+  <h1
+    className="Header-title"
+  >
+    Marvel Manager in ReactJS
+  </h1>
+  <div
+    className="MarvelBrand"
+  >
+    <img
+      alt="Marvel logo"
+      className="img-responsive center-block MarvelBrand-logo"
+      src="logo.svg"
+    />
+    <small>
+      Made in Thuan Nguyen's room
+    </small>
+  </div>
+</header>
+`;
+
+exports[`renders correctly 1`] = `
+<header
+  className="Header"
+>
+  <h1
+    className="Header-title"
+  >
+    Marvel Manager in ReactJS
+  </h1>
+  <div
+    className="MarvelBrand"
+  >
+    <img
+      alt="Marvel logo"
+      className="img-responsive center-block MarvelBrand-logo"
+      src="logo.svg"
+    />
+    <small>
+      Made in Thuan Nguyen's room
+    </small>
+  </div>
+</header>
+`;

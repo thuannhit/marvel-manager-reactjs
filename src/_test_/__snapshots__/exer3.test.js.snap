@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Exer3 renders correctly 1`] = `
+<div
+  className="App"
+>
+  <div
+    id="HeaderComponent"
+  >
+    HeaderComponent
+  </div>
+  <div
+    id="TableComponent"
+  >
+    TableComponent
+  </div>
+</div>
+`;
+
+exports[`renders correctly 1`] = `
+<div
+  className="App"
+>
+  <div
+    id="HeaderComponent"
+  >
+    HeaderComponent
+  </div>
+  <div
+    id="TableComponent"
+  >
+    TableComponent
+  </div>
+</div>
+`;

@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Exer1 renders correctly 1`] = `
+<div
+  className="d-flex flex-column"
+>
+  <br />
+  <div
+    className="MuiFormControl-root-1 MuiFormControl-marginNormal-2 MuiFormControl-fullWidth-4"
+    style={
+      Object {
+        "margin": 8,
+      }
+    }
+  >
+    <label
+      className="MuiFormLabel-root-16 MuiInputLabel-root-5 MuiInputLabel-formControl-10 MuiInputLabel-animated-13"
+      data-shrink={false}
+      htmlFor="standard-full-width"
+    >
+      Input string
+    </label>
+    <div
+      className="MuiInputBase-root-36 MuiInput-root-23 MuiInput-underline-27 MuiInputBase-fullWidth-45 MuiInput-fullWidth-30 MuiInputBase-formControl-37 MuiInput-formControl-24"
+      onClick={[Function]}
+    >
+      <input
+        aria-describedby="standard-full-width-helper-text"
+        aria-invalid={false}
+        className="MuiInputBase-input-46 MuiInput-input-31"
+        disabled={false}
+        id="standard-full-width"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="Your string"
+        required={false}
+        type="text"
+        value=""
+      />
+    </div>
+    <p
+      className="MuiFormHelperText-root-53"
+      id="standard-full-width-helper-text"
+    >
+      After typing your string, please press Remove vowels button
+    </p>
+  </div>
+  <button
+    className="MuiButtonBase-root-87 MuiButton-root-61 MuiButton-text-63 MuiButton-flat-66 Button"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onContextMenu={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+    width="50px"
+  >
+    <span
+      className="MuiButton-label-62"
+    >
+      Remove vowels
+    </span>
+    <span
+      className="MuiTouchRipple-root-90"
+    />
+  </button>
+  <p>
+    Result: 
+  </p>
+  <p
+    style={
+      Object {
+        "fontWeight": "bold",
+      }
+    }
+  >
+    
+  </p>
+</div>
+`;
